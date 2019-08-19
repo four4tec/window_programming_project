@@ -1,0 +1,8 @@
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Release\HW2.exe.config
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Release\HW2.exe
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Release\HW2.pdb
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Release\HW2.Form1.resources
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Release\HW2.Properties.Resources.resources
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Release\HW2.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Release\HW2.exe
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Release\HW2.pdb

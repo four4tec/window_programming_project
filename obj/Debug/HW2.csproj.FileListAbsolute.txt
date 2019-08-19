@@ -1,0 +1,9 @@
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\John\Desktop\coding\window_prog\HW2\HW2\obj\Debug\HW2.pdb
